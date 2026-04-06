@@ -8,6 +8,8 @@
 - Поддержка отчета "median-coffee"
 - Вывод результата в консоль в виде таблицы
 
+![Run example](https://github.com/Griz-Wold/csv-report-script/blob/main/screenshots/run_example.png)
+
 ## Технологии
 
 - Python
@@ -15,6 +17,9 @@
 - csv
 - statistics
 - tabulate
+- pytest
+
+![Pytest result](https://github.com/Griz-Wold/csv-report-script/blob/main/screenshots/pytest_result.png)
 
 ## Использование
 
