@@ -19,4 +19,4 @@
 ## Использование
 
 ```bash
-python main.py --files file1.csv, file2.csv --report median-coffee
+python main.py --files file1.csv file2.csv --report median-coffee
